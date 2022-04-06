@@ -1,0 +1,24 @@
+div{
+    font-size: 20px;
+}
+span{
+    color: #fffff;
+}
+.text{
+    color: red; 
+}
+[custom_data=""]{
+    color: blue;
+}
+
+
+}
+#text_span{
+    color: yellow;
+}
+.block>p{
+    font-size: 10px;
+}
+.block<p{
+    font-size: 30px;
+}
